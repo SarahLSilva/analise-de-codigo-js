@@ -20,7 +20,7 @@
 
 # Introdução
     
-O exercício proposto tevee o intuito de procurarmos os significado de varíaveis e apreder suas utilidades. Os codigos de exmplo que está no arquivo "Codigo-de-exercicio (1).html" cria um temporizador de 10 minutos e o outro "Codigo-de-exercicio (2).html" tem um sitema de verdadeiro e falso para encomtrar o documento. Abaixo estará listado suas varíaveis.
+O exercício proposto teve o intuito de procurarmos os significado de varíaveis e apreder suas utilidades. Os codigos de exmplo que está no arquivo "Codigo-de-exercicio (1).html" cria um temporizador de 10 minutos e o outro "Codigo-de-exercicio (2).html" tem um sitema de verdadeiro e falso para encomtrar o documento. Abaixo estará listado suas varíaveis.
 
 # Varíaveis
 
